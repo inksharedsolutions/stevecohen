@@ -66,7 +66,7 @@ const Author = (props) => (
                   <img src={AuthorImg} alt="author-profile"/>
               </div>
               <p>
-              About Steve M. Cohen Ed.D. Steve M. Cohen, Ed.D., is President and the managing partner of the Labor Management Advisory Group and HR Solutions: On Call located in the Kansas City Metro area. Dr. Cohen has his Doctorate in Educational and Industrial Psychology, his Masters in Public Administration, and his Bachelors in Speech communications and human relations. He also went to DePaul University Law School’s Alternative Dispute Resolution (ADR) Program where he became a certified mediator.
+              Steve M. Cohen, Ed.D., is President and the managing partner of the Labor Management Advisory Group and HR Solutions: On Call located in the Kansas City Metro area. Dr. Cohen has his Doctorate in Educational and Industrial Psychology, his Masters in Public Administration, and his Bachelors in Speech communications and human relations. He also went to DePaul University Law School’s Alternative Dispute Resolution (ADR) Program where he became a certified mediator.
               </p>
               <p>
               He has a Certificate in Health Care Labor Relations from the Wharton School of Business, University of Pennsylvania. He has 15 years experience as a hospital administrator, nursing home administrator, physician clinic practices, and retirement center CEO and an additional 35 years experience as a management consultant. His consultancy consists of working with for profit organizations and not for profit agencies.

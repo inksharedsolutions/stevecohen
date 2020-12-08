@@ -11,7 +11,7 @@ const LowerMain = ()=>{
                 </div>
                 <div className="grid-two-columns" id="author-container">
                     <div className="wrapper-auth-content">
-                        <div className="card">
+                        <div className="card card1">
                             <div className="auth-img-container">
                                 <img src={AuthorImg} />
                             </div>
@@ -38,7 +38,7 @@ const LowerMain = ()=>{
                     </div>
 
                     <div className="wrapper-auth-content" >    
-                        <div className="card">
+                        <div className="card card2">
                             <div className="auth-img-container">
                                 <img src={AuthorImg} />
                             </div>

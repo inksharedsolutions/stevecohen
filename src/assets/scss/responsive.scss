@@ -8,6 +8,12 @@
             height: auto;
         }
     }
+
+    .card{
+        margin: 0 5% !important;
+        font-size: 0.8em;
+        padding-top: 5%;
+    }
 }
 
 @media screen and ( max-width : 1350px){
@@ -45,6 +51,16 @@
             padding-left: 0%;
         }
         
+    }
+}
+
+@media screen and (min-width: 991px){ 
+    #disqus_thread{
+        padding: 25px;
+    }
+
+    #wrapper-two-books{
+        margin: 0 5% !important;
     }
 }
 
@@ -91,16 +107,16 @@
     }
   
     .wrapper-auth-content{
-        img{
-            height: auto;
+        display: flex;
+        justify-content: center;
+
+        .card{
+            margin: 3% 5% !important;
         }
     }
 
     .auth-img-container{
         text-align: center;
-        img{
-            height: 500px;
-        }
     }
 
     #banner-layout-responsive{
@@ -518,6 +534,8 @@
         .card{
             max-width: 80%;
             padding: 0;
+            margin: 0 auto;
+            height: auto;
         }
     }
 }
@@ -587,6 +605,15 @@
         input[name="email"]{
             width: 100%;
         }
+    }
+
+    .flex-container-fx{
+        margin: 0 auto;
+        padding: 0 20px !important;
+    }
+
+    .article-section{
+        padding: 0 15px !important;
     }
 
 }

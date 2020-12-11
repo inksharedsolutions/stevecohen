@@ -1,6 +1,7 @@
 import React from 'react'
 import {Link} from 'gatsby'
 import AuthorImg from '../static/author/dummy-profile.jpg'
+import AuthorLJA from '../static/author/LJAltman.png'
 
 const LowerMain = ()=>{
     return(
@@ -13,7 +14,7 @@ const LowerMain = ()=>{
                     <div className="wrapper-auth-content">
                         <div className="card card1">
                             <div className="auth-img-container">
-                                <img src={AuthorImg} />
+                                <img src={AuthorLJA} alt="Lawrence J. Altman profile"/>
                             </div>
                             <div className="card-content">
                                 <p className="author-content">
